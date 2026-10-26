@@ -1,0 +1,27 @@
+input[type=submit]:hover{
+    background-color: green;
+}
+input[type=reset]:hover{
+    background-color: brown;
+}
+body{
+    background-image:url(YMa7Wx2FyjQFUjEeqa72Rm-1920-80.jpg);
+    background-size: cover;
+}
+form{
+    background-color: rgb(223, 227, 230,0.75);
+    margin: 100px;
+    height: 1000px;
+    padding:100px ;
+}
+input{
+    display: block;
+     margin: 20px;
+}
+label{
+    display: block;
+    margin: 20px;
+}
+input[type=radio]{
+    display: inline;
+}
